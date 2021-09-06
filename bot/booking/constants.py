@@ -1,2 +1,2 @@
 
-myConstant = 5
+BASE_URL = 'https://booking.com'
