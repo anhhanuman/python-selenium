@@ -1,0 +1,2 @@
+
+myConstant = 5
