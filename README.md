@@ -18,7 +18,7 @@ driver = webdriver.Chrome()
 
 - git init -b main
 - gh repo create project-name [link](https://docs.github.com/en/github/importing-your-projects-to-github/importing-source-code-to-github/adding-an-existing-project-to-github-using-the-command-line#adding-a-project-to-github-with-github-cli)
-
+(or you can use the [github desktop](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/adding-and-cloning-repositories/adding-an-existing-project-to-github-using-github-desktop) to add existing project)
 ### Alert that you should not run the script a lot, in a number of times, too much because the server will automatically identify your public ip address and block you
 Then, it's not nice that you have to contact the website and explain that you're not harmful to them. 
 
