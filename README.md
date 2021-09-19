@@ -16,7 +16,7 @@ driver = webdriver.Chrome()
 
 ```
 
-- git init -b main -> this message is displayed:  `Initialized empty Git repository in /Users/maivuonganh/Documents/MyProjects/Python-Learning/.git/
+- git init -b main -> this message is displayed:  `Initialized empty Git repository in /Users/yourcomputername/Documents/MyProjects/Python-Learning/.git/
 `
 - gh repo create project-name [link](https://docs.github.com/en/github/importing-your-projects-to-github/importing-source-code-to-github/adding-an-existing-project-to-github-using-the-command-line#adding-a-project-to-github-with-github-cli)
 (or you can use the [github desktop](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/adding-and-cloning-repositories/adding-an-existing-project-to-github-using-github-desktop) to add existing project)
